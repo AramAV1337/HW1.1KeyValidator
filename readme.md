@@ -40,5 +40,5 @@
 Тестирование производилось в следующем окружении:
 
 * Windows 10 LTSC 64Bit
-* Java 11
+* openjdk version "11.0.10" 2021-01-19
 * IntelliJ IDEA Community
