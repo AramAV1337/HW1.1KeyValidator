@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
 
-* JAVA 11
+* openjdk version "11.0.10" 2021-01-19
 * IntelliJ IDEA Community
 * Java KeyValidator
 * Руководство использования KeyValidator
